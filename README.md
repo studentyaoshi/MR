@@ -1,7 +1,3 @@
-<div align=center>
-<img src="./logo/bigc.png" width="400" height="200" slt="bigclogo" align="middle" />
-</div>
-
 # MR
 This repository contains code and data necessary to replicate the findings of the paper:
 
