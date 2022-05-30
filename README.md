@@ -108,7 +108,7 @@ sh MR_input.sh
 - If neither of these two approaches resolves, the SNP will be discarded.
 
 #### Step 4. Remove confounders
-- Step 4.1 use [** PhenoScanner**](http://www.phenoscanner.medschl.cam.ac.uk/upload/) to find whether SNPs from step 2 are associated with phenotypes such as education, smoking, alcohol consumption, IQ, exercise, etc. If there are SNPs associated with the above four phenotypes, they need to be removed.
+- Step 4.1 use [**PhenoScanner**](http://www.phenoscanner.medschl.cam.ac.uk/upload/) to find whether SNPs from step 2 are associated with phenotypes such as education, smoking, alcohol consumption, IQ, exercise, etc. If there are SNPs associated with the above four phenotypes, they need to be removed.
 - Remove SNPs found in step 4.1 from the corresponding file. The files are located in "~/SVMR/example/1-input/exposure" and "~/SVMR/example/1-input/outcome".
 #### Step 5. Remove heterogenous SNPs
 - Input
