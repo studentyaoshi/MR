@@ -16,5 +16,5 @@ Shi Yao<sup>1#</sup>, Meng Zhang<sup>2#</sup>, Shan-Shan Dong<sup>2#</sup>, Jia-
 
 ## Maintainer
 > **Yao Shi & Zhang Meng**  
-> You can contact :email:yaoshi@xjtu.edu.cn or email:zmarch@stu.xjtu.edu.cn when you have any questions, suggestions, comments, etc.  
+> You can contact :email:yaoshi@xjtu.edu.cn or :email:zmarch@stu.xjtu.edu.cn when you have any questions, suggestions, comments, etc.  
 > Please describe in details, and attach your command line and log messages if possible.  
