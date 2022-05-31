@@ -33,7 +33,7 @@ rs8063603  A  G	  0.654  -0.030  0.0053  6.865E-09  480359
 ### Create workspace
 #### 1. Create a storage path for the SVMR project, for example: “**~/SVMR**“.
 #### 2. Put the “**src**“ folder under the SVMR.
-#### 3. Create a project folder in the SVMR, for example: “** example**”.
+#### 3. Create a project folder in the SVMR, for example: “**example**”.
 #### 4. Create folders in the example to save the results of each step. 
 - Folders for each step include: **0-clump, 1-input, 2-Radial, 3-MR, 4-Qtest, 5-raps, 6-Result, 7-SS, 8-PRESSO, 9-Steiger**.
 #### 5. List the filename of exposure in the file “**exposure**” and the filename of the outcome in the file “**outcome**”.
@@ -98,7 +98,7 @@ sh MR_input.sh
 - To avoid potential confounding, we investigated each instrument SNP in the [**PhenoScanner GWAS database**](http://www.phenoscanner.medschl.cam.ac.uk/upload/)  to assess any previous associations (P < 5×10-8) with plausible confounders (i.e. alcohol consumption, smoking status, physical activity, education). 
 - Remove confounders from the corresponding file. The files are located in " ~/SVMR/example/1-input/exposure/“ and " ~/SVMR/example/1-input/outcome/“.
 
-### Step 5. To meet the assumption that requires instruments to be associated with the outcome only through exposure, we excluded SNPs strongly associated with the outcome. 
+#### Step 5. To meet the assumption that requires instruments to be associated with the outcome only through exposure, we excluded SNPs strongly associated with the outcome. 
 - Remove them from the corresponding file. The files are located in " ~/SVMR/example/1-input/exposure/” and " ~/SVMR/example/1-input/outcome/“.
 
 #### Step 6. Remove heterogenous SNPs
