@@ -1,4 +1,0 @@
-  id.exposure id.outcome exposure outcome snp_r2.exposure snp_r2.outcome
-1      POib28     qDL0ug exposure outcome     0.001007648   0.0001574647
-  correct_causal_direction steiger_pval
-1                     TRUE 6.026575e-09

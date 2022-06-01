@@ -1,1 +1,0 @@
-Diet_Carbohydrate_GWAS_MA_SSGAC_2020_MolPsych.txt.ma.last_raps	MDD.ma.last	-0.9051	-1.342	-0.4681	4.91079835309375e-05
