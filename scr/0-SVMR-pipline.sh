@@ -1,12 +1,13 @@
 ######################
 # Data preprocessing #
 ######################
-# 1. Organize the GWASsummary data into the following format.
+# Organize the GWAS summary data into the following format.
 # SNP	A1	A2	EAF	beta	se	p	N
 # rs11682175	T	C	0.522	-0.028	0.0048	4.68E-09	480359
 # rs8063603	A	G	0.654	-0.030	0.0053	6.865E-09	480359
-# 2. SNPs with EAF less than 0.01 or greater than 0.99 were removed.
-# 3. Unify the rsid of GWASsummary data.
+# Note: 
+# 1. SNPs with EAF less than 0.01 or greater than 0.99 were removed.
+# 2. Unify the rsids of GWAS summary data.
 
 ##############################
 # Preparation before running #
@@ -15,7 +16,6 @@
 # 2. Create a workplace and put it in the same path as scr. For example we created a folder named "Carbohydrat-MDD".
 # 3. Create two files, "exposure" and "outcome", in the workplace. List the filename of exposures in the file “exposure” and the filename of the outcomes in the file “outcome”.
 cd ../Carbohydrat-MDD
-
 
 ########################################################
 # Selection of the genetic instrumental variables (IVs)#
