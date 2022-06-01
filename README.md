@@ -1,7 +1,7 @@
 # MR
 This repository contains code and data necessary to replicate the findings of the paper:
 
-> Shi Yao<sup>#</sup>, Meng Zhang<sup>#</sup>, Shan-Shan Dong<sup>#</sup>, Jia-Hao Wang, Kun Zhang, Jing Guo, Yan Guo\*, Tie-Lin Yang\*. Bidirectional two-sample Mendelian Randomization analysis identifies causal associations between relative carbohydrate intake and depression. *Nature Human Behaviour*. 2022.
+> Shi Yao<sup>#</sup>, Meng Zhang<sup>#</sup>, Shan-Shan Dong<sup>#</sup>, Jia-Hao Wang, Kun Zhang, Jing Guo, Yan Guo\*, Tie-Lin Yang\*. Bidirectional two-sample Mendelian Randomization analysis identifies causal associations between relative carbohydrate intake and depression. *Nature Human Behaviour*. AIP.
 
 ## Requirements  
 > - [**Python**](https://www.python.org/downloads/)
