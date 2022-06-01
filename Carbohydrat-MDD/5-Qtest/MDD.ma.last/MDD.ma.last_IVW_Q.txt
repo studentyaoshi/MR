@@ -1,0 +1,1 @@
+Diet_Carbohydrate_GWAS_MA_SSGAC_2020_MolPsych.txt.ma.last_IVW_Q	MDD.ma.last	3.66773672602049	0.721535650486083
