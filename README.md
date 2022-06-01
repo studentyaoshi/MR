@@ -1,9 +1,7 @@
 # MR
 This repository contains code and data necessary to replicate the findings of the paper:
 
-Shi Yao<sup>1#</sup>, Meng Zhang<sup>2#</sup>, Shan-Shan Dong<sup>2#</sup>, Jia-Hao Wang<sup>2</sup>, Kun Zhang<sup>2</sup>, Jing Guo<sup>2</sup>, Yan Guo<sup>2</sup>\*, Tie-Lin Yang<sup>1,2</sup>\*. Mendelian Randomization identifies causal associations between relative carbohydrate intake and depression. *Nature Human Behaviour*. 2022.
-> <sup>1</sup>National and Local Joint Engineering Research Center of Biodiagnosis and Biotherapy, The Second Affiliated Hospital, Xi'an Jiaotong University, Xi'an, Shaanxi, 710004, P. R. China  
-> <sup>2</sup>Key Laboratory of Biomedical Information Engineering of Ministry of Education, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, 710049, P. R. China  
+> Shi Yao<sup>#</sup>, Meng Zhang<sup>#</sup>, Shan-Shan Dong<sup>#</sup>, Jia-Hao Wang, Kun Zhang, Jing Guo, Yan Guo\*, Tie-Lin Yang\*. Mendelian Randomization identifies causal associations between relative carbohydrate intake and depression. *Nature Human Behaviour*. 2022.
 
 ## Requirements  
 > - [**Python**](https://www.python.org/downloads/)
