@@ -1,0 +1,16 @@
+
+Multivariable MR-Egger method
+(variants uncorrelated, random-effect model)
+
+Orientated to exposure : 1 
+Number of Variants : 9 
+------------------------------------------------------------------
+    Exposure Estimate Std Error  95% CI       p-value
+  exposure_1   -0.301     0.758 -2.249, 1.648   0.705
+  exposure_2   -0.668     0.529 -2.027, 0.691   0.253
+  exposure_3   -0.586     0.432 -1.695, 0.524   0.224
+ (intercept)   -0.024     0.010 -0.050, 0.003   0.059
+------------------------------------------------------------------
+Residual standard error =  0.822 
+Residual standard error is set to 1 in calculation of confidence interval when its estimate is less than 1.
+Heterogeneity test statistic = 3.3758 on 5 degrees of freedom, (p-value = 0.6423)

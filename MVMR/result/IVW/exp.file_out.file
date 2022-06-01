@@ -1,0 +1,14 @@
+
+Multivariable inverse-variance weighted method
+(variants uncorrelated, random-effect model)
+
+Number of Variants : 9 
+
+------------------------------------------------------------------
+   Exposure Estimate Std Error  95% CI        p-value
+ exposure_1   -1.536     0.653 -2.815, -0.256   0.019
+ exposure_2   -0.576     0.637 -1.826,  0.673   0.366
+ exposure_3   -0.581     0.522 -1.604,  0.441   0.265
+------------------------------------------------------------------
+Residual standard error =  1.209 
+Heterogeneity test statistic = 8.7677 on 6 degrees of freedom, (p-value = 0.1871)
