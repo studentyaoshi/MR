@@ -1,0 +1,41 @@
+PLINK v1.90b3.26 64-bit (26 Nov 2015)
+Options in effect:
+  --bfile /home/zhangkun/data/1000G/ref/EUR/merge/eur.merge
+  --clump ../../../data/Carbohydrate
+  --clump-field p
+  --clump-kb 10000
+  --clump-p1 5e-8
+  --clump-p2 0.01
+  --clump-r2 0.001
+  --out clump_ori_5e-8_10000/Carbohydrate
+
+Hostname: mu01
+Working directory: /home/zhangmeng/MR-pipline-v2/SVMR/Carbohydrat-MDD/1-clump
+Start time: Fri Jul  1 16:36:06 2022
+
+Random number seed: 1656664566
+129003 MB RAM detected; reserving 64501 MB for main workspace.
+77817963 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to clump_ori_5e-8_10000/Carbohydrate.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+77817963 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs452270' is missing from the main dataset, and is a top variant.
+Warning: 'rs569970' is missing from the main dataset, and is a top variant.
+Warning: 'rs55960823' is missing from the main dataset, and is a top variant.
+Warning: 'rs7502280' is missing from the main dataset, and is a top variant.
+Warning: 'rs2732607' is missing from the main dataset, and is a top variant.
+Warning: 'rs9927317' is missing from the main dataset, and is a top variant.
+Warning: 'rs2732703' is missing from the main dataset, and is a top variant.
+Warning: 'rs2732600' is missing from the main dataset, and is a top variant.
+Warning: 'rs9930333' is missing from the main dataset, and is a top variant.
+Warning: 'rs76927677' is missing from the main dataset, and is a top variant.
+Warning: 'rs10732335' is missing from the main dataset, and is a top variant.
+Warning: 'rs78803763' is missing from the main dataset, and is a top variant.
+--clump: 12 clumps formed from 503 top variants.
+Results written to clump_ori_5e-8_10000/Carbohydrate.clumped .
+
+End time: Fri Jul  1 16:36:52 2022

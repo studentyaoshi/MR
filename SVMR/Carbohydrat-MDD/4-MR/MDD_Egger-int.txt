@@ -1,0 +1,1 @@
+Carbohydrate_Egger-int	MDD	0.0054	-0.0406	0.0514	0.826745715764732
